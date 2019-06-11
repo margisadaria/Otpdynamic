@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Boxingexample</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="generate_otp">Generate OTP</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="verify_sign_in">Verify and Sign In</string>
+    <string name="sign_out">sign out</string>
+    <string name="registrationlink">If u r not register??Sign up</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="entername">Enter your full name</string>
+    <string name="entercollege">Enter your college name</string>
+    <string name="noc">click ur noc status</string>
+    <string name="enterid">Enter ur roll no here</string>
+
+</resources>
